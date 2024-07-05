@@ -8,4 +8,9 @@ The class exam given on 04/07/2024 is submitted as the following:
    
 3. António Andre Junior ---> was unwell and missed the exam.
 
-The source code for our assignment can be run through ---> main.py
+The source code for our assignment1 can be run through ---> main.py
+
+Documentation for both assignments is as following:
+
+1. Assignment 1 --->
+2. Assignment 2 --->

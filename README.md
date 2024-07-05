@@ -1,6 +1,6 @@
 ### Important Notes ###
 
-The class exam given on 04/07/2024 is submitted as the following: 
+The class exam given on 04/07/2024 is submitted as following: 
 
 1. Armando Eliseu Phacule ---> Exam.docx 
 

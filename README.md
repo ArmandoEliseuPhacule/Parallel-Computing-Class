@@ -2,7 +2,7 @@
 
 The class exam given on 04/07/2024 is submitted as following: 
 
-1. Armando Eliseu Phacule ---> Exam.docx 
+1. Armando Eliseu Phacule ---> Exam.docx + Exam_scenarios.docx
 
 2. Luan Pachisso ---> LuanExam.docx 
    
